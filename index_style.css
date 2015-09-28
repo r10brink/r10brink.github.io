@@ -14,6 +14,11 @@ h1 {
 /* don't use red! */
 background: liner-gradient(45deg, #9ea1aa, #f6ce30);
 
+#face {
+	width: 10%;
+	margin: 45%;
+}
+
 h2 {
 	color: #88D0D3;
 	text-transform: lowercase;
