@@ -1,0 +1,56 @@
+* {}
+/* makes everything green */
+
+h1 {
+	color: #88D0D3;
+	text-transform: uppercase;
+	font-family: Trebuchet;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 4em;
+	text-align: center;
+}
+
+/* don't use red! */
+background: liner-gradient(45deg, #9ea1aa, #f6ce30);
+
+h2 {
+	color: #88D0D3;
+	text-transform: lowercase;
+	font-family: Trebuchet;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 2em;
+	text-align: center;
+}
+
+h3 {	/* for resume section headings */
+	color: #88D0D3;
+	text-transform: uppercase;
+	font-family: Trebuchet;
+	font-weight: normal;
+	font-style: italic;
+	font-size: 2em;
+}
+h3 {	/* for dates and location */
+	color: #88D0D3;
+	font-family: Trebuchet;
+	font-weight: normal;
+	font-style: normal;
+	font-size: 2em
+}
+
+body {
+	width: 60%;
+	font-size: 1.5em;
+	color: orange;
+	font-family: Trebuchet;
+	margin-top: 5cm;
+	margin-bottom: 5cm;
+	margin-left: 6cm;
+	margin-right: 6cm;
+	text-indent: 2cm;
+	font-weight: normal;
+	background-attachment: fixed;
+}
+
