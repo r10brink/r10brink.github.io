@@ -4,12 +4,9 @@ h1 {
 	font-family: Trebuchet;
 	font-weight: bold;
 	font-style: italic;
-	font-size: 5m;
+	font-size: 5em;
 	text-align: center;
 }
-
-/* don't use red! */
-background: liner-gradient(45deg, #9ea1aa, #f6ce30);
 
 h2 {
 	text-align: center;
