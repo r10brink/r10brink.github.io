@@ -1,13 +1,10 @@
-* {}
-/* makes everything green */
-
 h1 {
-	color: #88D0D3;
+	color: #446869;
 	text-transform: uppercase;
 	font-family: Trebuchet;
 	font-weight: bold;
-	font-style: normal;
-	font-size: 4em;
+	font-style: italic;
+	font-size: 5m;
 	text-align: center;
 }
 
@@ -15,41 +12,26 @@ h1 {
 background: liner-gradient(45deg, #9ea1aa, #f6ce30);
 
 h2 {
-	color: #88D0D3;
+	text-align: center;
+	color: black;
 	text-transform: lowercase;
 	font-family: Trebuchet;
 	font-weight: bold;
 	font-style: normal;
-	font-size: 2em;
-	text-align: center;
-}
-
-h3 {	/* for resume section headings */
-	color: #88D0D3;
-	text-transform: uppercase;
-	font-family: Trebuchet;
-	font-weight: normal;
-	font-style: italic;
-	font-size: 2em;
-}
-h3 {	/* for dates and location */
-	color: #88D0D3;
-	font-family: Trebuchet;
-	font-weight: normal;
-	font-style: normal;
-	font-size: 2em
+	font-size: 1em;
 }
 
 body {
 	width: 60%;
-	font-size: 1.5em;
-	color: orange;
+	font-size: 1em;
+	color: gray;
 	font-family: Trebuchet;
-	margin-top: 5cm;
-	margin-bottom: 5cm;
-	margin-left: 6cm;
-	margin-right: 6cm;
-	text-indent: 2cm;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 17%;
+	margin-right: 17%;
 	font-weight: normal;
+	background-image: url("paper_background.jpg");
+	background-size: 100%;
 	background-attachment: fixed;
 }
