@@ -1,5 +1,4 @@
-* {}
-/* makes everything green */
+
 
 h1 {
 	color: #446869;
@@ -28,9 +27,16 @@ h3 {	/* for resume section headings */
 	color: black;
 	text-transform: uppercase;
 	font-family: Trebuchet;
-	font-weight: normal;
+	font-weight: bold;
 	font-style: normal;
 	font-size: 1em;
+}
+
+h4 {	/* for dates and location */
+	color: #446869;
+	font-family: Trebuchet;
+	font-weight: bold;
+	font-size: 1em
 }
 
 h5 {
@@ -38,22 +44,20 @@ h5 {
 }
 
 body {
-	width: 60%;
+	width: 80%;
 	font-size: 1em;
 	color: #446869;
 	font-family: Trebuchet;
 	margin-top: 5%;
 	margin-bottom: 5%;
-	margin-left: 17%;
+	margin-left: 10%;
 	margin-right: 17%;
 	/*text-indent: 2cm;*/
-	text-align: center;
+	/*text-align: center;*/
 	font-weight: normal;
 	background-image: url("paper_background.jpg");
 	background-size: 100%;
 	background-attachment: fixed;
 }
 
-li {
-	list-style-type: none;
-}
+
