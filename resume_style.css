@@ -55,8 +55,8 @@ body {
 	/*text-indent: 2cm;*/
 	/*text-align: center;*/
 	font-weight: normal;
-	background-image: url("paper_background.jpg");
-	background-size: 100%;
+	background-image: url("background_pointy.jpg");
+	background-size: cover;
 	background-attachment: fixed;
 }
 

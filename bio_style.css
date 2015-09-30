@@ -11,7 +11,7 @@ h1 {
 h2 {
 	text-align: center;
 	color: black;
-	text-transform: lowercase;
+	text-transform: normal;
 	font-family: Trebuchet;
 	font-weight: bold;
 	font-style: normal;
@@ -28,7 +28,7 @@ body {
 	margin-left: 17%;
 	margin-right: 17%;
 	font-weight: normal;
-	background-image: url("paper_background.jpg");
-	background-size: 100%;
+	background-image: url("background_pointy.jpg");
+	background-size: cover;
 	background-attachment: fixed;
 }
