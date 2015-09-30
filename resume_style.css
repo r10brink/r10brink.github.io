@@ -1,5 +1,3 @@
-
-
 h1 {
 	color: #446869;
 	text-transform: uppercase;
@@ -9,9 +7,6 @@ h1 {
 	font-size: 2em;
 	text-align: center;
 }
-
-/* don't use red! */
-/*background: liner-gradient(45deg, #9ea1aa, #f6ce30);*/
 
 h2 {
 	color: #446869;
@@ -23,7 +18,7 @@ h2 {
 	text-align: center;
 }
 
-h3 {	/* for resume section headings */
+h3 {
 	color: black;
 	text-transform: uppercase;
 	font-family: Trebuchet;
@@ -32,7 +27,7 @@ h3 {	/* for resume section headings */
 	font-size: 1em;
 }
 
-h4 {	/* for dates and location */
+h4 {
 	color: #446869;
 	font-family: Trebuchet;
 	font-weight: bold;
@@ -52,12 +47,8 @@ body {
 	margin-bottom: 5%;
 	margin-left: 10%;
 	margin-right: 17%;
-	/*text-indent: 2cm;*/
-	/*text-align: center;*/
 	font-weight: normal;
 	background-image: url("background_pointy.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
-
-
